@@ -7,6 +7,6 @@
    <body>
     <p>old stuff. pretty sure you will find a lot of shitty code I would write completely different today:)</p>
     <br>
-    <p>the suff from prog2 is listed under src/Prog2/<p/>
+    <p>the stuff from prog2 is listed under src/Prog2/<p/>
   </body>
 </html>
