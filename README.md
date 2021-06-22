@@ -1,7 +1,7 @@
 
 <html>
   <head>
-    <title><h1>OLD_STUFF from sem1 + sem2</h1></title>
+    <title>OLD_STUFF from sem1 + sem2</title>
     <br>
    </head>
    <body>
