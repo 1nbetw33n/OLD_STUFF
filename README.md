@@ -5,9 +5,7 @@
     <br>
    </head>
    <body>
-     <p>old stuff.</p>
-     <br>
-     <p>pretty sure you will find a lot of shitty code I would write completely different today:)</p>
+     <p>old stuff - pretty sure you will find a lot of shitty code I would write completely different today:)</p>
     <br>
   </body>
 </html>
